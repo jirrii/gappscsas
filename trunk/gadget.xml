@@ -11,16 +11,7 @@
     <base target="_top"> 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>  
-  <body dir="ltr">
-  <script type="text/javascript" charset="utf-8">
-jQuery(function() {
-  jQuery('a').each(function() {
-    if (jQuery(this).attr('href')  ===  window.location.pathname) {
-      jQuery(this).addClass('active');
-    }
-  });
-});
-</script>   
+  <body dir="ltr"> 
     <object xmlns="http://www.w3.org/1999/xhtml">            
       <div id="container" style="margin-right:70px; margin-top:20px;">               
         <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:#EFEFEF;margin-bottom:2px;">                  
@@ -83,7 +74,16 @@ jQuery(function() {
           </span>                  
           <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">DOKUMENTY          
           </span>       </a>            
-      </div>                      
+      </div> 
+      <script type="text/javascript" charset="utf-8">
+jQuery(function() {
+  jQuery('a').each(function() {
+    if (jQuery(this).attr('href')  ===  window.location.pathname) {
+      jQuery(this).addClass('active');
+    }
+  });
+});
+</script>                       
   </body>
   </html>
 ]]></Content>
