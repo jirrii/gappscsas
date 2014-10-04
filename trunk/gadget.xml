@@ -9,7 +9,7 @@
     <style type="text/css">#container a{text-decoration:none;} #container a.active{background:#333333 !important;} #container a.active span.text{color:#FFFFFF !important;          } #container a:hover{background:#DDDDDD !important;  } 
     </style>
     <base target="_top"> 
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>  
   <body dir="ltr">
   <script type="text/javascript" charset="utf-8">
