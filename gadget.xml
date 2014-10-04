@@ -77,7 +77,7 @@
           <script type="text/javascript" charset="utf-8">
 jQuery(function() {
   jQuery('a').each(function() {
-    if (jQuery(this).attr('href')  ===  (window.location != window.parent.location) ? document.referrer: document.location) {
+    if (jQuery(this).attr('href')  ==  (window.location != window.parent.location) ? document.referrer: document.location) {
       jQuery(this).addClass('active');
     }
   });
