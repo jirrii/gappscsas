@@ -78,7 +78,7 @@
       <script type="text/javascript" charset="utf-8">
 jQuery(function() {
   jQuery('a').each(function() {
-    if (jQuery(this).attr('href')  ===  window.location.pathname) {
+    if (jQuery(this).attr('href')  ===  window.location.href) {
       jQuery(this).addClass('active');
     }
   });
