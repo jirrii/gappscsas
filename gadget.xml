@@ -12,7 +12,7 @@
   <body dir="ltr">    
     <object xmlns="http://www.w3.org/1999/xhtml">            
       <div id="container" style="margin-right:70px; margin-top:20px;">               
-        <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/gmail" id="gmail_link" style="width:250px;height:60px;display:block;background:#EFEFEF;margin-bottom:2px;" class="active">                  
+        <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/gmail" id="gmail_link" target="" style="width:250px;height:60px;display:block;background:#EFEFEF;margin-bottom:2px;" class="active">                  
           <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-gmail.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">GMAIL          
