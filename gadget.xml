@@ -13,15 +13,13 @@
   </head>  
   <body dir="ltr">
   <script type="text/javascript" charset="utf-8">
-//<![CDATA[
 jQuery(function() {
   jQuery('a').each(function() {
     if (jQuery(this).attr('href')  ===  window.location.pathname) {
       jQuery(this).addClass('active');
     }
   });
-});  
-//]]>
+});
 </script>   
     <object xmlns="http://www.w3.org/1999/xhtml">            
       <div id="container" style="margin-right:70px; margin-top:20px;">               
