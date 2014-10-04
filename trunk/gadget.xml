@@ -109,10 +109,10 @@ window['___jsl']=window['___jsl']||{};
           }
         })
 
-        var siteUrl = "https://sites.google.com/a/csas.cz/googleapps";
+        var siteUrl = "https://sites.google.com/a/csas.cz/gapps";
         var currentUrl = document.referrer;
 
-        var sectionPageQuery = currentUrl.split('sites.google.com/a/csas.cz/googleapps/')[1];
+        var sectionPageQuery = currentUrl.split('sites.google.com/a/csas.cz/gapps/')[1];
 
         var sectionPage = sectionPageQuery.split('?')[0];
         var query = (sectionPageQuery.split('?').length > 1) ? sectionPageQuery.split('?')[1] : '';
