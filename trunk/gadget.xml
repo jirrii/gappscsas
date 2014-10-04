@@ -6,14 +6,26 @@
 <html>  
   <head>    
     <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">-->
-    <style type="text/css">#container a{text-decoration:none;} #container a.active{background:#333333 !important;} #container a.active span.text{color:#FFFFFF !important;          } #container a:hover{background:#DDDDDD !important;   #container a:active {color:#FFFFFF !important;       } 
+    <style type="text/css">#container a{text-decoration:none;} #container a.active{background:#333333 !important;} #container a.active span.text{color:#FFFFFF !important;          } #container a:hover{background:#DDDDDD !important;  } 
     </style>
-    <base target="_top">  
+    <base target="_top"> 
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
   </head>  
-  <body dir="ltr">    
+  <body dir="ltr">
+  <script type="text/javascript" charset="utf-8">
+//<![CDATA[
+jQuery(function() {
+  jQuery('a').each(function() {
+    if (jQuery(this).attr('href')  ===  window.location.pathname) {
+      jQuery(this).addClass('active');
+    }
+  });
+});  
+//]]>
+</script>   
     <object xmlns="http://www.w3.org/1999/xhtml">            
       <div id="container" style="margin-right:70px; margin-top:20px;">               
-        <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:#EFEFEF;margin-bottom:2px;" class="active">                  
+        <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:#EFEFEF;margin-bottom:2px;">                  
           <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-gmail.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">GMAIL          
