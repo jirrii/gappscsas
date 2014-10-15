@@ -6,7 +6,7 @@
 <html>  
   <head>    
     <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">-->
-    <style type="text/css">#container a{text-decoration:none;} #container a.active{background:#333333 !important;} #container a.active span.text{color:#FFFFFF !important;          } #container a:hover{background:#DDDDDD !important;  } 
+    <style type="text/css">#container a{text-decoration:none;} #container a.active{background:#333333 !important;} #container a.active span.text{color:#FFFFFF !important;          } #container a:hover{background:#DDDDDD !important;  }  body {background-color: #eeeeee;}
     </style>
     <base target="_top"> 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
