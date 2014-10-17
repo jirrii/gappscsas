@@ -13,7 +13,7 @@
   </head>  
   <body dir="ltr"> 
     <object xmlns="http://www.w3.org/1999/xhtml">            
-      <div id="container" style="margin-right:70px; margin-top:20px;">               
+      <div id="container" style="/*margin-right:70px;*/ margin-top:20px;">               
         <a href="https://sites.google.com/a/csas.cz/gapps/videa/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
           <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/bezpecne-na-googlu/Bezpe-nostn%C3%AD%20desatero.png'); background-size: 50px 50px; float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
