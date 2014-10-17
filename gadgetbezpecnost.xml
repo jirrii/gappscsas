@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!-- was: no XML declaration present -->
+<Module>
+<ModulePrefs title="hello world example" />
+<Content type="html"><![CDATA[
+<html>  
+  <head>    
+    <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">-->
+    <style type="text/css">#container a{text-decoration:none;} #container a.active{background:rgb(180,180,180) !important;} #container a.active span.text{color:#FFFFFF !important;          } #container a:hover{background:rgb(200,200,200) !important;  } body {background-color: #eeeeee;} 
+    </style>
+    <base target="_top"> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  </head>  
+  <body dir="ltr"> 
+    <object xmlns="http://www.w3.org/1999/xhtml">            
+      <div id="container" style="margin-right:70px; margin-top:20px;">               
+        <a href="https://sites.google.com/a/csas.cz/gapps/videa/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/bezpecne-na-googlu/Bezpe-nostn%C3%AD%20desatero.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+          </span>                  
+          <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">Bezpečnostní desatero          
+          </span>       </a>               
+        <a href="https://sites.google.com/a/csas.cz/gapps/videa/kalendar" id="calendar_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/bezpecne-na-googlu/Pravidla%20pro%20zakl%C3%A1d%C3%A1n%C3%AD%20web-.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+          </span>                  
+          <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">Pravidla pro zakládání webů          
+          </span>       </a>               
+        <a href="https://sites.google.com/a/csas.cz/gapps/videa/kontakty" id="contacts_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/bezpecne-na-googlu/Pravidla%20pro%20zakl%C3%A1d%C3%A1n%C3%AD%20komunit.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+          </span>                  
+          <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">Pravidla pro zakládání komunit         
+          </span>       </a>               
+        <a href="https://sites.google.com/a/csas.cz/gapps/videa/chrome"  id="chrome_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; background:rgb(239,239,239);">                  
+          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/bezpecne-na-googlu/S%20Googlem%20bezpe-n-%20v%20mobilu.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+          </span>                  
+          <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">S Googlem bezpečně v mobilu          
+          </span>       </a>                            
+        <a href="https://sites.google.com/a/csas.cz/gapps/videa/etc"  id="etc_link" target="_top" style="width:250px; height:60px; display:block; margin-bottom:2px; background:rgba(65,58,91,0.0980392);">                  
+          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-etc.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+          </span>                  
+          <span class="text" style="float:left;font-family:Open Sans; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">OSTATNÍ          
+          </span>       </a>               
+          <script type="text/javascript" charset="utf-8">
+jQuery(function() {
+  jQuery('a').each(function() {
+    if (jQuery(this).attr('href')  ==  ((window.location != window.parent.location) ? document.referrer: document.location)) {
+      jQuery(this).addClass('active');
+    }
+  });
+});
+</script>             
+      </div>                       
+  </body>
+  </html>
+]]></Content>
+</Module>
