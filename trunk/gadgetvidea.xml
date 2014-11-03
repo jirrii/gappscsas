@@ -14,63 +14,63 @@
   <body dir="ltr"> 
     <object xmlns="http://www.w3.org/1999/xhtml">            
       <div id="container" style="margin-right:70px; margin-top:20px;">               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-gmail.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/gmail" id="gmail_link"  target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-gmail.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">GMAIL          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/kalendar" id="calendar_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-calendar.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/kalendar" id="calendar_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-calendar.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">KALENDÁŘ          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/kontakty" id="contacts_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-contacts.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/kontakty" id="contacts_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-contacts.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">KONTAKTY          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/chrome"  id="chrome_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; background:rgb(239,239,239);">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-chrome.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/chrome"  id="chrome_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; background:rgb(239,239,239);">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-chrome.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">CHROME          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/hangout"  id="hangout_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-hangout.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/hangout"  id="hangout_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-hangout.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">HANGOUT          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/disk"  id="drive_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-drive.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/disk"  id="drive_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-drive.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">DISK          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/google"  id="plus_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-plus.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/google"  id="plus_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-plus.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">GOOGLE+          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/skupiny"  id="groups_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-groups.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/skupiny"  id="groups_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-groups.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">SKUPINY          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/weby"  id="sites_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-sites.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/weby"  id="sites_link" target="_top" style="width:250px;height:60px;display:block;background:rgba(65,58,91,0.0980392);margin-bottom:2px;">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-sites.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">WEBY          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/mobile"  id="mobile_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; background:rgba(65,58,91,0.0980392);">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-mobile.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/jak-na-aplikace/mobile"  id="mobile_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; background:rgba(65,58,91,0.0980392);">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-mobile.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">MOBILY/TABLETY          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/videa/etc"  id="etc_link" target="_top" style="width:250px; height:60px; display:block; margin-bottom:2px; background:rgba(65,58,91,0.0980392);">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-etc.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/videa/etc"  id="etc_link" target="_top" style="width:250px; height:60px; display:block; margin-bottom:2px; background:rgba(65,58,91,0.0980392);">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-etc.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">OSTATNÍ          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/docs"  id="docs_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; rgba(65,58,91,0.0980392);">                  
-          <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/gapps/jak-na-aplikace/icon-documents.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
+        <a href="/a/csas.cz/googleapps/jak-na-aplikace/docs"  id="docs_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; rgba(65,58,91,0.0980392);">                  
+          <span class="image" style="background-image:url('/a/csas.cz/googleapps/jak-na-aplikace/icon-documents.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">DOKUMENTY          
           </span>       </a>
