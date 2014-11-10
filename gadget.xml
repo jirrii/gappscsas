@@ -29,7 +29,7 @@
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">KONTAKTY          
           </span>       </a>               
-        <a href="https://sites.google.com/a/csas.cz/googleapps/jak-na-aplikace/chrome"  id="chrome_link" target="_top" style="width:250px; height:60px; display:none; margin-bottom:2px; background:rgb(239,239,239);">                  
+        <a href="https://sites.google.com/a/csas.cz/googleapps/jak-na-aplikace/chrome"  id="chrome_link" target="_top" style="width:250px; height:60px; display:block; margin-bottom:2px; background:rgb(239,239,239);">                  
           <span class="image" style="background-image:url('https://sites.google.com/a/csas.cz/googleapps/jak-na-aplikace/icon-chrome.png');float:left;width:90px;height:60px;background-position:center center;background-repeat:no-repeat;">          
           </span>                  
           <span class="text" style="float:left;font-family:Arial,sans-serif; font-weight:600;font-size:16px;color:#000000;text-transform:uppercase;line-height:60px;">CHROME          
