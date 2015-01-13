@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+    <ModulePrefs title="Embed gadget"
+        title_url="http://sites.google.com/"
+        description="Insert an embedding in your Google Site"
+        thumbnail="http://www.gstatic.com/sites-gadgets/common/images/sites-icon-gadget-thumb.png"
+        screenshot="http://www.gstatic.com/sites-gadgets/common/images/sites-icon-gadget-ss.png"
+        height="480"
+        width="853"
+        author="Google">
+        <Require feature="setprefs"/>
+    </ModulePrefs>
+    <UserPref
+        name="embed_snippet"
+        display_name="Embedding snippet"
+        required="true" />
+<Content type="html" view="home">
+   <![CDATA[
+   <div id='dest'><img src="//www.google.com/ig/images/spinner.gif"></div>
+   <script type="text/javascript">
+      function onLoad() {
+        var prefs = new _IG_Prefs();
+        var embed = prefs.getString('embed_snippet');
+        var dest = document.getElementById('dest');
+        dest.innerHTML = embed;
+      };
+      gadgets.util.registerOnLoadHandler(onLoad);
+   </script>
+  ]]>
+</Content>
+<Content type="html" view="configuration"  preferred_height="240">
+   <![CDATA[
+   Embedding snippet:<br />
+    <textarea id="embed_snippet" style="height: 200px; width: 100%" >__UP_embed_snippet__</textarea>
+    <script type="text/javascript">
+      function registerHandlers() {
+        // Get userprefs
+        var prefs = new gadgets.Prefs();
+
+        var pref = document.getElementById('embed_snippet');
+        var handler = function() {
+           prefs.set('embed_snippet', document.getElementById('embed_snippet').value);
+        };
+        pref.onchange = handler;
+        pref.onkeyup = handler;
+      }
+      gadgets.util.registerOnLoadHandler(registerHandlers);
+    </script>
+    ]]>
+</Content>
+</Module>
